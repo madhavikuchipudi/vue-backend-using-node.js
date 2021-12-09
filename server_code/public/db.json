@@ -1,0 +1,44 @@
+[{
+        "id": 1,
+        "company": "Tajmahal",
+        "Location": "India",
+        "by": "Shan Jahan",
+        "description": "The Taj Mahal is well known across the world for its historical value, its tale of love, and its stunning beauty. The Taj Mahal is located in the historic Indian city of Agra. It houses the tomb of Mumtaz Mahal, the wife of the Mughal Emperor Shah Jahan. It is said that the Emperor loved his wife dearly and was prompted to build the Taj Mahal after her death as a testament to his love."
+    },
+
+    {
+        "id": 2,
+        "company": "Colosseum ",
+        "Location": "Italy",
+        "by": "Emperor Vespasian",
+        "description": "The Colosseum's construction was initiated in AD 72 by Emperor Vespasian and was finished by AD 80 by his successor, Titus. Domitian, another emperor of the Flavian dynasty later made certain modifications to the amphitheater."
+    },
+    {
+        "id": 3,
+        "company": "Chichen Itza",
+        "Location": "Mexico",
+        "by": "Maya people.",
+        "description": "Chichen Itza's structures like the temples, arcades, and pyramids were sacred to the ancient Maya people."
+    },
+    {
+        "id": 4,
+        "company": "Machu Picchu",
+        "Location": "Peru",
+        "by": "Inca emperor Pachacuti",
+        "description": "The site developed as a city but was abandoned a century later during the Spanish Conquest"
+    },
+    {
+        "id": 5,
+        "company": "Christ The Redeemer",
+        "Location": "Brazil",
+        "by": "Paul Landowski, a French sculptor",
+        "description": "The Romanian sculptor, Gheorghe Leonida, was responsible for fashioning the face. "
+    },
+    {
+        "id": 5,
+        "company": "Petra",
+        "Location": "Jordan",
+        "by": "Royal Tombs",
+        "description": "It has immense archaeological, historical, and architectural value that makes it a jaw-dropping tourist attraction. "
+    }
+]

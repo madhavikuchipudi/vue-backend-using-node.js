@@ -1,2 +1,2 @@
-# vue-backend-using-node.js
-A backend application using nodejs
+# Project-Vue-Nodejs-Backend
+Web application development final project backend
